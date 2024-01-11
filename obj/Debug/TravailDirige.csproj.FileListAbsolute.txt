@@ -1,0 +1,7 @@
+C:\Users\HP\Desktop\L3IAGE\C SHARP\TravailDirige\TravailDirige\bin\Debug\TravailDirige.exe.config
+C:\Users\HP\Desktop\L3IAGE\C SHARP\TravailDirige\TravailDirige\bin\Debug\TravailDirige.exe
+C:\Users\HP\Desktop\L3IAGE\C SHARP\TravailDirige\TravailDirige\bin\Debug\TravailDirige.pdb
+C:\Users\HP\Desktop\L3IAGE\C SHARP\TravailDirige\TravailDirige\obj\Debug\TravailDirige.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\L3IAGE\C SHARP\TravailDirige\TravailDirige\obj\Debug\TravailDirige.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\L3IAGE\C SHARP\TravailDirige\TravailDirige\obj\Debug\TravailDirige.exe
+C:\Users\HP\Desktop\L3IAGE\C SHARP\TravailDirige\TravailDirige\obj\Debug\TravailDirige.pdb
